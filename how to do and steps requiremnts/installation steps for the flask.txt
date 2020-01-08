@@ -1,0 +1,22 @@
+[11:04 pm, 08/01/2020] Niketan: first, navin folder banvaycha, for eg. MyApp
+[11:04 pm, 08/01/2020] Niketan: tya folder mdhe jaaun command prompt open krycha, tya sathi varti address bar mdhe cmd.exe type krych
+[11:05 pm, 08/01/2020] Niketan: tyanantr he command run krychi- pip install virtualenv
+[11:05 pm, 08/01/2020] Niketan: mg - virtualenv venv
+[11:05 pm, 08/01/2020] Niketan: mg cd venv/Scripts && source activate && cd ../..
+[11:06 pm, 08/01/2020] Niketan: Scripts mdhla S small kiva Capital bgh ekda fkt, aathvt nhi windows ch mla
+[11:06 pm, 08/01/2020] Niketan: mg command prompt mdhe starting la (venv) asa yeil
+[11:06 pm, 08/01/2020] Niketan: mhje virtual environment activated
+[11:06 pm, 08/01/2020] Niketan: mg - pip install flask
+[11:06 pm, 08/01/2020] Niketan: pip install flask-wtf
+[11:07 pm, 08/01/2020] Niketan: pip install flask-sqlalchemy
+[11:07 pm, 08/01/2020] Niketan: pip install flask-login
+[11:07 pm, 08/01/2020] Niketan: tya nantr - pip freeze > requirements.txt
+[11:07 pm, 08/01/2020] Niketan: mg .gitignore naavachi file banav ek. Name nhi khich, fkt extension - .gitignore
+[11:07 pm, 08/01/2020] Niketan: aani tila notepad mdhe open kr aani first line la venv taak
+[11:08 pm, 08/01/2020] Niketan: mg jr git cmd mdhun asel tr  - git status
+[11:08 pm, 08/01/2020] Niketan: mg files chi list disel jya modify kelyat pn commit nhi kelay
+[11:09 pm, 08/01/2020] Niketan: mg git add aani file ch name-path js varchya cmd ne o/p yeil
+[11:09 pm, 08/01/2020] Niketan: mg : git commit -m "Some message related to CHangelog"
+[11:09 pm, 08/01/2020] Niketan: mg : git push origin master
+[11:09 pm, 08/01/2020] Niketan: zal
+[11:10 pm, 08/01/2020] Niketan: Udya daakhvto prt neet hav tr
