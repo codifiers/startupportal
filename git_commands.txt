@@ -1,0 +1,4 @@
+git status : view updated/modified files
+git add file-paths : add files for changing/uploading
+git commit -m "some changelog message" : stage commit
+git push origin master - Upload to web
